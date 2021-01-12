@@ -1,14 +1,18 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
 
-	<RepositoryUrl>https://github.com/BlankDev117/Common.Extensions.Object</RepositoryUrl>
-	<RepositoryType>git</RepositoryType>
-  </PropertyGroup>
+		<RepositoryUrl>https://github.com/BlankDev117/Common.Extensions.Object</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<Description>DeepEquals is a fast, flexible, and simple way of comparing objects deeply.</Description>
+		<PackageTags>DeepEquals, Comparison, Deep, Equals, Equality, Extensions, Object</PackageTags>
+		<Authors>BlankDev117</Authors>
+		<Title>DeepEquals</Title>
+	</PropertyGroup>
 
-  <PropertyGroup>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
-  </PropertyGroup>
+	<PropertyGroup>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	</PropertyGroup>
 
 </Project>
